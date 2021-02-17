@@ -1,0 +1,13 @@
+\frametitle{Code}
+
+    \emph{Note the [fragile] specifier next to frame and the code indentation.}
+
+\begin{lstlisting}[language=Python]
+import numpy as np
+
+def foo(a, b):
+    """
+    asd
+    """
+    return a + b + 1
+\end{lstlisting}
