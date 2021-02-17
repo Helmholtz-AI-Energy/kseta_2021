@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.scc.kit.edu/img/newsbites/SCC-LOGO_farbig_png.png" height="100px">
+  <img src="https://www.scc.kit.edu/img/newsbites/SCC-LOGO_farbig_png.png" height="200px">
 </div>
 
 License
