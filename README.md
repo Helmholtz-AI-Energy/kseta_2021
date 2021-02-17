@@ -7,7 +7,7 @@ License
 
 [![license: BSD3](https://img.shields.io/badge/License-BSD3-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-The slides, data and software under the BSD-3 license, see our [LICENSE](LICENSE) file.
+The slides, data and software are licensed under BSD-3, see our [LICENSE](LICENSE) file.
 
 Content
 -------
