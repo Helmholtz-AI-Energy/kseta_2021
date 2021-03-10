@@ -20,7 +20,7 @@ Requirements
 Before starting, make sure that you have the following Python packages installed:
 
 ```bash
-pip install numpy torch phasespace matplotlib
+pip install numpy torch
 ```
 
 Acknowledgements
