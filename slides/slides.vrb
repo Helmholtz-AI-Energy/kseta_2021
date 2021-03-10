@@ -1,13 +1,21 @@
-\frametitle{Code}
+\frametitle{Get Your Own Hands Dirty...}
+    \framesubtitle{...once again}
 
-    \emph{Note the [fragile] specifier next to frame and the code indentation.}
+    \vspace{2em}
+    Install the requirements first...
+    \begin{lstlisting}[language=Bash]
+pip install numpy torch
+    \end{lstlisting}
+    \vspace{1em}
+    ... and clone the \textbf{slides} and \textbf{Jupyter notebooks}
+    \begin{lstlisting}[language=Bash]
+git clone https://github.com/Helmholtz-AI-Energy/kseta_2021.git
+    \end{lstlisting}
+    \vspace{1em}
+    Available under the \emph{BSD-3 license}.
 
-\begin{lstlisting}[language=Python]
-import numpy as np
-
-def foo(a, b):
-    """
-    asd
-    """
-    return a + b + 1
-\end{lstlisting}
+    \vspace{1em}
+    \begin{figure}
+        \centering
+        \includegraphics[height=0.25\textheight]{logos/scc.png}
+    \end{figure}

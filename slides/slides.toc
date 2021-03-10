@@ -1,1 +1,3 @@
-\beamer@sectionintoc {1}{Sections look like this}{11}{0}{1}
+\beamer@sectionintoc {1}{Hands-on Part 1}{19}{0}{1}
+\beamer@sectionintoc {2}{Hands-on Part 2}{24}{0}{2}
+\beamer@sectionintoc {3}{Hands-on Part 3}{29}{0}{3}

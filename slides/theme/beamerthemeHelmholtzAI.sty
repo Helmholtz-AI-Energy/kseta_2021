@@ -42,7 +42,7 @@
     anchorcolor=hgfblue,
 }
 
-\lstset{
+\lstdefinestyle{helmholtz}{
     basicstyle=\ttfamily\upshape\small,
     breaklines=true,
     backgroundcolor=\color{lightgray!20},
@@ -54,6 +54,10 @@
     deletekeywords={compile},
     escapechar=\&,
     escapeinside={<@}{@>}
+}
+
+\lstset{
+    style=helmholtz
 }
 
 \newcommand{\source}[1]{%
